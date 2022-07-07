@@ -3,11 +3,14 @@ title: Configuring Azure AD as the SAML IDP with Greenlake Cloud Platform and
   Aruba Central
 date: 2022-07-07T18:35:53.603Z
 author: Michael Rose Jr.
-authorimage: /img/signal-2021-06-26-062652~2.jpg
-thumbnailimage: /img/signal-2021-06-26-062652~2.jpg
+authorimage: /img/me-192x192.jpg
+thumbnailimage: /img/me-192x192.jpg
+tags:
+  - aruba
+  - arubacentral
+  - SAML
+  - authentication
 ---
-# Configuring Azure AD as the SAML IDP with Greenlake Cloud Platform and Aruba Central
-
 
 Single sign-on (SSO) enables users to securely authenticate with multiple applications and websites by logging in only once—with just one set of credentials (username and password). With SSO, the application or website that the user is trying to access relies on a trusted third party (Identity provider) to verify that users are who they say they are.
 
@@ -229,7 +232,7 @@ The `hpe_ccs_attribute` string for a tenant under a MSP account, would be below.
 version_1#f9ee1cdecc1611ecb00e9e24ed17d2a7:00000000-0000-0000-0000-000000000000:Observer|TENANT| :ALL_SCOPES:683da368-66cb-4ee7-90a9-ec1964768092:Aruba Central Administrator|TENANT| :ALL_SCOPES
 ```
 
-
+## Tags
 
 
 
