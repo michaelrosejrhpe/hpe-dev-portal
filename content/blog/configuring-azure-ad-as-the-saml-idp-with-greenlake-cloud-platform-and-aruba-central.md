@@ -45,7 +45,7 @@ This document references the following documentation:
 To configure SSO in Aruba Central, first download the metadata file from Azure AD.
 
 <ol>
-	<li>Create an Enteprise Application in the \\\[Azure Portal](https://portal.azure.com)</li>
+	<li>Create an Enteprise Application in the \\\\[Azure Portal](https://portal.azure.com)</li>
 	<li>Configure the Enterprise Application for GLCP</li>
 	<li>Download the federated metadata XML file from Enterprise Application</li>
 	<li>Claim and Configure your domain within GLCP</li>
@@ -62,7 +62,9 @@ To configure SSO in Aruba Central, first download the metadata file from Azure A
 * Click **Create your own Application**
 
     Enter the name of your app. (Ex: Aruba Central USWEST 4)
-  ![Image](images/create_app.png)
+
+
+  ![assginusersgroups](/img/assignusersgroups.png "assginusersgroups")
 * Select **Integrate any other application you don't find in the gallery (Non-gallery)**
 * Under Step 1: Assign users and groups, select the AD Group you created at the beginning of this document.
 
